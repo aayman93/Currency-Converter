@@ -1,4 +1,7 @@
 package com.github.aayman93.currencyconverter
 
-class CurrencyApplication {
-}
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
+
+@HiltAndroidApp
+class CurrencyApplication : Application()
