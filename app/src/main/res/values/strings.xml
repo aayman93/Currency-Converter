@@ -5,6 +5,7 @@
     <string name="amount">Amount</string>
     <string name="convert">Convert</string>
     <string name="result_reset">0.00</string>
+    <string name="conversion_rate">Exchange rate: %f</string>
 
     <string-array name="currency_codes_from">
         <item>EGP</item>
